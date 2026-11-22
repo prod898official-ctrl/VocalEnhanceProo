@@ -1,0 +1,8 @@
+JAK WGRAC NA GITHUB:
+1. Rozpakuj ten zip.
+2. W repo: Add file -> Upload files -> przeciagnij WSZYSTKO z rozpakowanego folderu.
+3. Commit changes.
+4. Jesli w repo NIE MA folderu .github/workflows/build.yml:
+   Add file -> Create new file -> w nazwie wpisz:  .github/workflows/build.yml
+   -> wklej zawartosc pliku build.yml (lezy obok, w glownym folderze) -> Commit.
+5. Zakladka Actions -> Build VST3 -> Run workflow.
